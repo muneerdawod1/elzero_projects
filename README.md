@@ -1,2 +1,4 @@
 # elzero_projects
-Executing All "Elzero Web School" Git And Github Projects
+Executing All "Elzero Web School" Git And Github Projects.
+
+## Project Notes
